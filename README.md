@@ -1,4 +1,4 @@
-I am Praneet Loke! I love working on distributed cloud services and making various free software.
+I love working on distributed cloud services and making various free software.
 
 My latest free software is a browser extension! Check it out:
 
