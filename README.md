@@ -1,6 +1,6 @@
 I love working on distributed cloud services and making various free software.
 
-My latest free software is a browser extension! Check it out:
+My latest free software is a browser extension that can help protect your privacy, especially during screensharing! Check it out:
 
 ![Chrome](https://www.google.com/images/icons/product/chrome_web_store-32.png) [Chrome](https://chrome.google.com/webstore/detail/shade/denfadghfapneeflooogfflmnnebpjha)
 
