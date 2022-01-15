@@ -4,9 +4,9 @@ I love working on distributed cloud services. I am always playing with some piec
 
 Checkout my creations!
 
-## Pulumi Desktop
+## Deskypus
 
-Pulumi Desktop is a cross-platform desktop app that helps boost your productivity with Pulumi. [Download now](https://pulumi-desktop.github.io/)!
+A cross-platform desktop app that helps boost your productivity with Pulumi. [Coming soon](https://deskypus.github.io/)!
 
 <details>
   <summary>Screenshots</summary>
