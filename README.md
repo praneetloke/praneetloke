@@ -6,7 +6,7 @@ Checkout my creations!
 
 ## Deskypus
 
-A cross-platform desktop app that helps boost your productivity with Pulumi. [Coming soon](https://deskypus.github.io/)!
+A cross-platform desktop app that helps boost your productivity with Pulumi. [Download](https://deskypus.github.io/) for your platform now!
 
 <details>
   <summary>Screenshots</summary>
