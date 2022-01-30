@@ -15,6 +15,10 @@ A cross-platform desktop app that helps boost your productivity with Pulumi. [Do
   <img width="418" alt="account-switcher" src="https://user-images.githubusercontent.com/1466314/147854947-d09a4cb9-a8f6-4059-8813-909f4271267d.png">
 </details>
 
+## Deeplink for Deskypus
+
+A browser extension companion for Deskypus that lets you dive into a Pulumi project quickly from the Pulumi Console. Check it out at https://github.com/deskypus/deeplink.
+
 ## Shade
 
 A browser extension that can help protect your privacy, especially when you are sharing your screen during a Zoom call
