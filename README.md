@@ -1,8 +1,10 @@
-I love working on distributed cloud services. I am always playing with some piece of technology outside of work. Right now, I am very much into all things WebAssembly and cross-platform desktop apps.
+I am an independent engineer who loves working on distributed cloud services. I am always playing with some piece of technology outside of work. Right now, I am very much into all things WebAssembly and cross-platform desktop apps.
+
+I was most recently a lead engineer for the [Pulumi Service](https://app.pulumi.com). I am now working with small to medium-sized teams (3-8 people) that are looking for help from a Principal-level engineer to hit the ground running on day one. From drafting design documents to implementing them, I can help! If you are interested, DM me on [LinkedIn](https://linkedin.com/in/praneetloke).
 
 # Featured
 
-Checkout my creations!
+Check out some of my latest creations!
 
 ## Deskypus
 
