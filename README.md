@@ -8,7 +8,7 @@ Check out some of my latest creations!
 
 ## Deskypus
 
-A cross-platform desktop app that helps boost your productivity with Pulumi. [Download](https://deskypus.github.io/) for your platform now!
+A cross-platform desktop app for Pulumi providing the missing UI for self-managed backend users with a lot of useful features. [Download](https://deskypus.github.io/) for your platform now!
 
 <details>
   <summary>Screenshots</summary>
@@ -23,7 +23,7 @@ A browser extension companion for Deskypus that lets you dive into a Pulumi proj
 
 ## Shade
 
-A browser extension that can help protect your privacy, especially when you are sharing your screen during a Zoom call
+A browser extension that can help protect your privacy, especially when you are sharing your screen in a conference call.
 
 ![Chrome](https://www.google.com/images/icons/product/chrome_web_store-32.png) [Chrome](https://chrome.google.com/webstore/detail/shade/denfadghfapneeflooogfflmnnebpjha) &nbsp;&nbsp;&nbsp; ![Edge](https://microsoftedge.microsoft.com/favicon.ico) [Edge](https://microsoftedge.microsoft.com/addons/detail/shade/beejdgamkplgnpoabpkgpkdcbdhhnial) &nbsp;&nbsp;&nbsp; ![Firefox](https://addons.cdn.mozilla.net/favicon.ico?v=2) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/privacy-shade/)
 
