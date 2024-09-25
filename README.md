@@ -1,6 +1,6 @@
-I am an independent Principal engineer who loves working on distributed cloud services and cloud infrastructure. I am always playing with some piece of technology. Right now, I am into all things WebAssembly and cross-platform desktop apps.
+I am an independent Principal engineer and I love working on distributed cloud services and cloud infrastructure.
 
-I am a former lead engineer for [Pulumi Cloud](https://app.pulumi.com). I founded @cloudy-sky-software to help teams adopt Pulumi for their cloud infrastructure automation. From drafting design documents to implementing them, I can help! If you are interested, DM me on [LinkedIn](https://linkedin.com/in/praneetloke).
+I am a former lead engineer for [Pulumi Cloud](https://app.pulumi.com). I founded @cloudy-sky-software to help teams adopt Pulumi for their cloud infrastructure automation. From drafting design documents to implementing them, I can help! If you are interested, DM me on [LinkedIn](https://linkedin.com/in/praneetloke). Learn more about what I can do for your team at https://cloudysky.software.
 
 # Featured
 
